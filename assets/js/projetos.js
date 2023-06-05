@@ -1,0 +1,168 @@
+function projetos(section) {
+  section.innerHTML = `<header>
+      <h2>Serviços</h2>
+    </header>
+    <div class="content">
+      <div class="cards">
+        <div class="card">
+          <h3>Troca de óleo</h3>
+          <div class="img-wrapper">
+          <img src="assets/images/projects/gifpleo.gif" alt="troca de oleo">
+            <div class="buttons">
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://wa.me/556130115052?text=Queria+ver+os+seus+pre%C3%A7os%2C+meu+carro+esta+com+problemas" target="_blank" title="Entra no zap">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+          Confie na WDH - de Francisco para cuidar do seu veículo e garantir que a troca de óleo seja realizada de forma profissional, contribuindo para a longevidade e o desempenho do seu carro.
+          </p>
+          <p>A partir de R$150,00</p>
+        </div>
+        <div class="card">
+          <h3>Direção Hidraulica</h3>
+          <div class="img-wrapper">
+          <img src="assets/images/projects/direçãohidraulica.gif" alt="Direção Hidraulica">
+            <div class="buttons">
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://wa.me/556130115052?text=Queria+ver+os+seus+pre%C3%A7os%2C+meu+carro+esta+com+problemas" title="Entra no zap">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+          A direção hidráulica é um sistema de assistência que facilita o controle do volante do veículo, tornando a direção mais suave e leve para o motorista. Esse sistema utiliza fluido hidráulico pressurizado para auxiliar na movimentação das rodas.
+          </p>
+          <p>Faça seu orçamento</p>
+        </div>
+        <div class="card">
+          <h3>Suspenção</h3>
+          <div class="img-wrapper">
+          <img src="assets/images/projects/suspenção.gif" alt="Suspenção">
+            <div class="buttons">
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://wa.me/556130115052?text=Queria+ver+os+seus+pre%C3%A7os%2C+meu+carro+esta+com+problemas" target="_blank" title="Entra no zap">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>O sistema de suspensão de um veículo desempenha um papel fundamental na estabilidade, conforto e segurança durante a condução. Ele é responsável por absorver as irregularidades da estrada, proporcionar aderência adequada dos pneus ao solo e manter o controle do veículo em curvas e manobras.</p>
+          <p>Agende seu dia</p>
+        </div>
+        <div class="card">
+          <h3>Freios</h3>
+          <div class="img-wrapper">
+          <img src="assets/images/projects/Freios.gif" alt="Freios">
+            <div class="buttons">
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://wa.me/556130115052?text=Queria+ver+os+seus+pre%C3%A7os%2C+meu+carro+esta+com+problemas" target="_blank" title="Entra no zap">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>O sistema de freios é uma parte fundamental de qualquer veículo, pois desempenha um papel crucial na segurança do motorista, passageiros e outros usuários da estrada. Ele é responsável por controlar e reduzir a velocidade ou parar completamente o veículo quando necessário.</p>
+          <p>Entre em contato</p>
+        </div>
+        <div></div>
+        <div class="card">
+          <h3>Em breve...</h3>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            width="24"
+            height="24"
+          >
+            <path fill="none" d="M0 0h24v24H0z" />
+            <path
+              d="M5 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm14 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-7 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+              fill="rgba(255,255,255,1)"
+            />
+          </svg>
+          <p>
+            Estamos com <br />
+            mais novidades em breve.
+          </p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            width="24"
+            height="24"
+          >
+            <path fill="none" d="M0 0H24V24H0z" />
+            <path
+              d="M21 3v2c0 9.627-5.373 14-12 14H5.243C5.08 19.912 5 20.907 5 22H3c0-1.363.116-2.6.346-3.732C3.116 16.974 3 15.218 3 13 3 7.477 7.477 3 13 3c2 0 4 1 8 0zm-8 2c-4.418 0-8 3.582-8 8 0 .362.003.711.01 1.046 1.254-1.978 3.091-3.541 5.494-4.914l.992 1.736C8.641 12.5 6.747 14.354 5.776 17H9c6.015 0 9.871-3.973 9.997-11.612-1.372.133-2.647.048-4.22-.188C13.627 5.027 13.401 5 13 5z"
+              fill="rgba(255,255,255,1)"
+            />
+          </svg>
+        </div>
+        <div></div>
+      </div>
+    </div>`;
+}
+
+export { projetos };
